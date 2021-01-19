@@ -1,1 +1,1 @@
-# Boston-Housing---ML-UFSC
+# Exercício Boston Housing da disciplina de Machine Learning - UFSC
